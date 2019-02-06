@@ -29,6 +29,3 @@ Check service running:
 curl localhost:7777
 ```
 
-## Related project
-
-https://github.com/redhat-developer/reactive-microservices-in-java
